@@ -2,7 +2,8 @@
 
 ## Repositorio contem o projeto final da Unidade Curricular de Computação Gráfica.<br>
 ## Frisbee Coastal Quest<br>
-Jogo de tiro ao alvo com frisbee e garrafas.
+Jogo de tiro ao alvo com frisbee e garrafas.<br>
+Todos os objetos foram desenvolvidos pelos alunos.
 
 ## Desenvolvido por:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Hugo Santos a64514<br>
