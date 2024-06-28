@@ -15,8 +15,3 @@ Jogo de tiro ao alvo com frisbee e garrafas como alvo.
 &nbsp;&nbsp;&nbsp;&nbsp;Numpy<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Py_OPENGL<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Py_OPENGL_accelerate<br>
-
-Alexandre Santos a71522
-Bruno Nunes a71390
-Daniel Palma a71177
-Hugo Santos a64514
