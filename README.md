@@ -1,7 +1,5 @@
 # UC_CG_Final_Project
 
-# UC_CG_Labs
-
 ## Repositorio contem o projeto final da uc de computação gráfica. Jogo de tiro ao alvo com frisbee e garrafas como alvo.
 
 ## Desenvolvido por:<br>
