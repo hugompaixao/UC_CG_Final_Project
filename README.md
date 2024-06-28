@@ -1,6 +1,6 @@
 # UC_CG_Final_Project
 
-## Repositorio contem o projeto final da uc de computação gráfica.<br>
+## Repositorio contem o projeto final da Unidade Curricular de Computação Gráfica.<br>
 ## Frisbee Coastal Quest<br>
 Jogo de tiro ao alvo com frisbee e garrafas.
 
